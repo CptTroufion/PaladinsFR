@@ -1,0 +1,2 @@
+# PaladinsFR
+Site Paladins FR
